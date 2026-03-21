@@ -3,6 +3,9 @@
 ## 📌 Overview
 MediIQ is a web-based system designed to assist trained medical staff in triaging and managing patients in emergency settings. It helps in registering patients, analyzing symptoms, and prioritizing them in a queue based on urgency.
 
+## 🎯 Purpose
+This system was designed to support medical staff during emergency situations by reducing workload and improving patient prioritization, helping ensure that critical cases are attended to in a timely manner.
+
 ## ⚙️ Core Idea
 The system combines AI-assisted decision-making with human supervision to ensure both efficiency and safety. It is intended to be used by medical professionals, where AI provides recommendations but final decisions remain under expert control.
 
